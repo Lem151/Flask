@@ -24,5 +24,5 @@ Es la hora de conectarlo todo, para esto deberemos hacer las siguientes acciones
 
 Con esto ya estaría 
   
-![image](https://github.com/Lem151/Flask/assets/114771568/83eb2572-9642-4816-84a6-f2190d97a352)
+
 
